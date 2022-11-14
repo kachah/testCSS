@@ -1,0 +1,94 @@
+table {
+    border-width:1px; 
+    border-style:solid; 
+    border-color:black;
+    width:50%;
+    display: block;
+    margin:auto;
+    }
+   .td { 
+    border-width:1px;
+    border-style:solid; 
+    border-color:red;
+    width:50%;
+    background-color: aquamarine;
+    }
+
+    td { 
+        border-width:1px;
+        border-style:solid; 
+        border-color:red;
+        width:50%;
+        }
+        th { 
+            border-width:1px;
+            border-style:solid; 
+            border-color:red;
+            width:50%;
+            }
+
+
+
+    h1{
+        border-radius: 10px;border: 2px solid black ;
+        text-transform: uppercase ;
+        text-align: center;
+        margin:auto;
+        /*margin-left: auto;
+        margin-right: auto;*/
+        width: 200px;
+        background-color: red;
+        color: blue;
+        display: block;
+      }
+.tableau{
+      border-radius: 10px;border: 2px solid black ;
+        text-transform: uppercase ;
+        text-align: center;
+        margin:auto;
+        /*margin-left: auto;
+        margin-right: auto;*/
+        width: 200px;
+        background-color: red;
+        color: blue;
+        display: block;
+    }
+
+
+    input{
+
+        display: block;
+    }
+
+.dimImage{
+height: 60px;
+width: 60px;
+;
+}
+
+#Parag {
+    border-radius: 10px;border: 2px solid black ;
+    /*margin:auto;
+    margin-left: auto;
+    margin-right: auto;*/
+    width: auto;
+    display: block;
+  }
+
+  #para1 {
+    text-align: center;
+    color: red;
+    
+  }
+
+  #para2 {
+   text-align: left;
+   color: rgb(55, 0, 255);
+   
+  }
+
+  #para3 {
+    text-align: right;
+    color: rgb(0, 255, 42);
+    
+   }
